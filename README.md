@@ -1,4 +1,5 @@
-Open source software published by REV Robotics
+REV Robotics is proud to have published and contributed to a lot of open source software. We hope
+you find it to be useful!
 
 ## Software that ships on REV hardware
 
