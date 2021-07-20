@@ -1,5 +1,4 @@
 {
-  "name": "showdown-test",
   "main": "index.js",
   "scripts": {
     "build": "single-page-markdown-website README.md --output dist",
