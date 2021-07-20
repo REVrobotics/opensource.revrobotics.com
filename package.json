@@ -1,11 +1,8 @@
 {
-  "main": "index.js",
   "scripts": {
     "build": "single-page-markdown-website README.md --output dist",
     "dev": "single-page-markdown-website README.md --watch"
   },
-  "keywords": [],
-  "author": "",
   "dependencies": {
     "single-page-markdown-website": "^0.0.19"
   },
