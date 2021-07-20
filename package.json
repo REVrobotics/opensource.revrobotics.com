@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "single-page-markdown-website README.md --output dist",
-    "dev": "single-page-markdown-website README.md --watch"
+    "dev": "single-page-markdown-website README.md --watch --open"
   },
   "dependencies": {
     "single-page-markdown-website": "^0.0.19"
