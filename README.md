@@ -128,6 +128,22 @@ may not be legal for competition use.
 
 [Blinkin-Firmware](https://github.com/REVrobotics/Blinkin-Firmware)
 
+## Software that we have made major contributions to
+### FIRST Tech Challenge Robot Controller app
+REV Robotics regularly contributes improvements to the Robot Controller and Driver Station apps
+used in the FIRST Tech Challenge competition. While the Driver Station app is not open-source,
+the Robot Controller app's source code is shipped in source JAR files, which are regularly extracted
+to the following GitHub repository (which is not an official FIRST property):
+
+[OpenFTC/Extracted-RC](https://github.com/OpenFTC/Extracted-RC)
+
+### The Orange Alliance Event Management System
+While the Event Management System is currently maintained by [The Orange Alliance](https://theorangealliance.org/),
+it was originally developed by REV Robotics for FIRST Global 2018 and 2019. 
+
+[orange-alliance/event-management-system](https://github.com/orange-alliance/event-management-system)
+[FIRST Global 2018 Event Management System](https://github.com/REVrobotics/event-management-system-FGC2018Archive)
+
 ## Assorted projects
 ### FTC Robocol Wireshark plugin
 Wireshark is a network packet analysis tool, and we developed a
