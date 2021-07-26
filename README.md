@@ -80,6 +80,7 @@ Based on the [Foxy Droid](https://github.com/kitsunyan/foxy-droid/) F-Droid clie
 ## Example code
 ### Using the REV Color Sensor V3 in FRC
 Code samples for how to use a REV Color Sensor V3 in WPILib
+
 [Color-Sensor-v3-Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples)
 
 ### Using the SPARK MAX with a RoboRIO
@@ -93,9 +94,21 @@ The full source code of the REV Color Sensor V3 driver for WPILib
 
 [Color-Sensor-v3](https://github.com/REVrobotics/Color-Sensor-v3)
 
+
+### Color Sensor V3 FRC driver (LabVIEW)
+The full source code of the REV Color Sensor V3 driver for LabVIEW
+
+[Color-Sensor-v3-LabVIEW](https://github.com/REVrobotics/Color-Sensor-v3-LabVIEW)
+
+### 2M Distance Sensor FRC driver
+The full source code of the REV 2M Distance Sensor driver for WPILib
+
+[2M-Distance-Sensor](https://github.com/REVrobotics/2m-Distance-Sensor)
+
 ### CANBridge
-[CANBridge](https://github.com/REVrobotics/CANBridge) is a Windows library to allow PC applications
-to connect to the FRC CAN bus using supported REV Hardware.
+A Windows library to allow PC applications to connect to the FRC CAN bus using supported REV Hardware.
+
+[CANBridge](https://github.com/REVrobotics/CANBridge)
 
 ### node-can-bridge
 A node.js/Electron library that exposes a Javascript API for the CANBridge library, for use with
@@ -111,7 +124,7 @@ A node.js/Electron library that can put USB-connected Expansion Hubs into firmwa
 ## Device firmware
 ### REV Blinkin LED Driver firmware
 The full Arduino firmware for the REV Blinkin LED driver. Using modified firmware on your Blinkin
-may not be legal for FTC competition use.
+may not be legal for competition use.
 
 [Blinkin-Firmware](https://github.com/REVrobotics/Blinkin-Firmware)
 
@@ -123,6 +136,9 @@ analyze the FTC network traffic (called Robocol) between the Robot Controller an
 apps. For this to work, you must know the password to the robot's WiFi network.
 
 [FTC-robocol-Wireshark-plugin](https://github.com/REVrobotics/FTC-robocol-Wireshark-plugin)
+
+### Saleae analyzer for FRC CAN Bus
+[Saleae-FRC-CAN-Analyzer](https://github.com/REVrobotics/Saleae-FRC-CAN-Analyzer)
 
 ### DfuSeFile
 A library for reading and writing DFU files in the DfuSe format
