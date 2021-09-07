@@ -78,7 +78,7 @@ Based on the [Foxy Droid](https://github.com/kitsunyan/foxy-droid/) F-Droid clie
 </details>
 
 ## Example code
-### Using the REV Color Sensor V3 in FRC
+### Using the REV Color Sensor V3 with a RoboRIO
 Code samples for how to use a REV Color Sensor V3 in WPILib
 
 [Color-Sensor-v3-Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples)
