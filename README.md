@@ -48,6 +48,8 @@ you find it to be useful!
 
 [Linux kernel for Driver Hub OS 1.0.2](https://github.com/REVrobotics/kernel-driverhub-android/tree/dh-os-1.0.2)
 (same as 1.0.0)
+
+[Linux kernel for Driver Hub OS 1.1.0](https://github.com/REVrobotics/kernel-driverhub-android/tree/dh-os-1.1.0)
 </details>
 
 <details>
@@ -58,6 +60,9 @@ you find it to be useful!
 [Bootloader for Driver Hub OS 1.0.1](https://github.com/REVrobotics/u-boot-driverhub-android/tree/dh-os-1.0.1)
 
 [Bootloader for Driver Hub OS 1.0.2](https://github.com/REVrobotics/u-boot-driverhub-android/tree/dh-os-1.0.2)
+(same as 1.0.1)
+
+[Bootloader for Driver Hub OS 1.1.0](https://github.com/REVrobotics/u-boot-driverhub-android/tree/dh-os-1.1.0)
 (same as 1.0.1)
 </details>
 
