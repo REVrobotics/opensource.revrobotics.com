@@ -82,29 +82,28 @@ Based on the [Foxy Droid](https://github.com/kitsunyan/foxy-droid/) F-Droid clie
 [Driver Hub Software Manager 1.0](https://github.com/REVrobotics/Driver-Hub-Software-Manager/tree/dhsm-1.0)
 </details>
 
-## Example code
-### Using the REV Color Sensor V3 with a roboRIO
-Code samples for how to use a REV Color Sensor V3 in WPILib
+## FRC/WPILib example code
+### Power Distribution Hub
+Code examples for how to use a Power Distribution Hub from WPILib
 
-[Color-Sensor-v3-Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples)
+[Power-Distribution-Hub-Examples](https://github.com/REVrobotics/Power-Distribution-Hub-Examples)
 
-### Using the SPARK MAX with a roboRIO
-Code samples for how to use a SPARK MAX in WPILib
+### Pneumatic Hub
+Code examples for how to use a Pneumatic Hub from WPILib
+
+[Pneumatic-Hub-Examples](https://github.com/REVrobotics/Pneumatic-Hub-Examples)
+
+### SPARK MAX
+Code examples for how to use a SPARK MAX from WPILib
 
 [SPARK-MAX-Examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
 
+### Color Sensor V3
+Code examples for how to use a REV Color Sensor V3 from WPILib
+
+[Color-Sensor-v3-Examples](https://github.com/REVrobotics/Color-Sensor-v3-Examples)
+
 ## Libraries for communicating with REV hardware
-### Color Sensor V3 FRC driver
-The full source code of the REV Color Sensor V3 driver for WPILib
-
-[Color-Sensor-v3](https://github.com/REVrobotics/Color-Sensor-v3)
-
-
-### Color Sensor V3 FRC driver (LabVIEW)
-The full source code of the REV Color Sensor V3 driver for LabVIEW
-
-[Color-Sensor-v3-LabVIEW](https://github.com/REVrobotics/Color-Sensor-v3-LabVIEW)
-
 ### 2M Distance Sensor FRC driver
 The full source code of the REV 2M Distance Sensor driver for WPILib
 
