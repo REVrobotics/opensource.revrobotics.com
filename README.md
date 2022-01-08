@@ -94,17 +94,6 @@ Code samples for how to use a SPARK MAX in WPILib
 [SPARK-MAX-Examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
 
 ## Libraries for communicating with REV hardware
-### Color Sensor V3 FRC driver
-The full source code of the REV Color Sensor V3 driver for WPILib
-
-[Color-Sensor-v3](https://github.com/REVrobotics/Color-Sensor-v3)
-
-
-### Color Sensor V3 FRC driver (LabVIEW)
-The full source code of the REV Color Sensor V3 driver for LabVIEW
-
-[Color-Sensor-v3-LabVIEW](https://github.com/REVrobotics/Color-Sensor-v3-LabVIEW)
-
 ### 2M Distance Sensor FRC driver
 The full source code of the REV 2M Distance Sensor driver for WPILib
 
