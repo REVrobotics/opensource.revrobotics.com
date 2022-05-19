@@ -160,6 +160,9 @@ apps. For this to work, you must know the password to the robot's WiFi network.
 ### Saleae analyzer for FRC CAN Bus
 [Saleae-FRC-CAN-Analyzer](https://github.com/REVrobotics/Saleae-FRC-CAN-Analyzer)
 
+### Saleae analyzer for REV Hub Serial Protocol
+[Saleae-REV-Hub-Serial-Protocol-Analyzer](https://github.com/REVrobotics/Saleae-REV-Hub-Serial-Protocol-Analyzer)
+
 ### DfuSeFile
 A library for reading and writing DFU files in the DfuSe format
 
