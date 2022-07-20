@@ -120,6 +120,11 @@ node.js and Electron applications
 
 [node-can-bridge](https://github.com/REVrobotics/node-can-bridge)
 
+### node-rhsplib
+A node.js/Electron library that can control devices that speak the REV Hub Serial Protocol (such as the REV Robotics Expansion Hub).
+
+[node-rhsplib](https://github.com/REVrobotics/node-rhsplib)
+
 ### node-expansion-hub-ftdi
 A node.js/Electron library that can put USB-connected Expansion Hubs into firmware update mode
 
