@@ -98,6 +98,11 @@ Code examples for how to use a SPARK MAX from WPILib
 
 [SPARK-MAX-Examples](https://github.com/REVrobotics/SPARK-MAX-Examples)
 
+#### MAXSwerve templates
+[MAXSwerve-Java-Template](https://github.com/REVrobotics/MAXSwerve-Java-Template)
+
+[MAXSwerve-Cpp-Template](https://github.com/REVrobotics/MAXSwerve-Cpp-Template)
+
 ### Color Sensor V3
 Code examples for how to use a REV Color Sensor V3 from WPILib
 
