@@ -103,7 +103,7 @@ Code examples for how to use a SPARK MAX from WPILib
 
 [MAXSwerve-Cpp-Template](https://github.com/REVrobotics/MAXSwerve-Cpp-Template)
 
-### 2023 REV ION Starter Bot
+#### 2023 REV ION Starter Bot
 [2023-REV-ION-FRC-Starter-Bot](https://github.com/REVrobotics/2023-REV-ION-FRC-Starter-Bot)
 
 ### Color Sensor V3
